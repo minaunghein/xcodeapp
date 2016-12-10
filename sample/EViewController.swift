@@ -15,6 +15,7 @@ class EViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         //This is edited by MAH
+        //Correction
     }
 
     override func didReceiveMemoryWarning() {
