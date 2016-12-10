@@ -16,6 +16,7 @@ class CViewController: UIViewController {
         // Do any additional setup after loading the view.
         //Hello All
         //hihihihihihihihi
+        //Edited by Thant
     }
 
     override func didReceiveMemoryWarning() {
