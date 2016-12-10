@@ -71,6 +71,7 @@
 				EA8B50E91DFC410F00857234 /* AViewController.swift */,
 				A16EAF651DFC4E700051973D /* 4_green@2x.png */,
 				EA8B50EB1DFC411A00857234 /* BViewController.swift */,
+				28E4A7C11DFD1A8400250804 /* cat.jpeg */,
 				EA8B50ED1DFC412400857234 /* CViewController.swift */,
 				EA8B50EF1DFC412D00857234 /* DViewController.swift */,
 				EA8B50F11DFC413700857234 /* EViewController.swift */,
@@ -141,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28E4A7C21DFD1A8400250804 /* cat.jpeg in Resources */,
 				EA8B50E21DFBE82100857234 /* LaunchScreen.storyboard in Resources */,
 				EA8B50DF1DFBE82100857234 /* Assets.xcassets in Resources */,
 				EA8B50DD1DFBE82100857234 /* Main.storyboard in Resources */,
