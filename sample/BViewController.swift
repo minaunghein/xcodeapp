@@ -14,6 +14,7 @@ class BViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        // i got it
     }
 
     override func didReceiveMemoryWarning() {
