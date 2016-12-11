@@ -14,6 +14,7 @@ class DViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        //Edit by tga..........
     }
 
     override func didReceiveMemoryWarning() {
