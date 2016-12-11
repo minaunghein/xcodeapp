@@ -15,6 +15,7 @@ class BViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         // i got it
+        // leon
     }
 
     override func didReceiveMemoryWarning() {
